@@ -146,7 +146,7 @@ if(u==3)  {
 
 
 	printf("\nEnter a sentence: ");
-    scanf("%c",&b);//Ekraný bekletmek için
+    scanf("%c",&b);//EkranÃ½ bekletmek iÃ§in
  	gets(a);
 
 	x = strlen(a);
@@ -223,11 +223,7 @@ int i;
 }
 
 
-if(u==6){
-printf("\nGizem Irmak \n No:130316039\n");
-printf("\nMemis Gokhan Aryiz \n No:130316045\n");
 
-}
 
 
 
